@@ -72,7 +72,11 @@ func main() {
 		os.Exit(1)
 	}()
 
-	p.Run()
+	if err = p.Run(); err != nil {
+		show()
+		os.Exit(1)
+		return
+	}
 	show()
 }
 

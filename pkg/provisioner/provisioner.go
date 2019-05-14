@@ -138,7 +138,7 @@ func (p *Provisioner) CommandRun(arg, commit string) error {
 	}
 
 	p.Log.Error(err, arg, commit)
-	return nil
+	return err
 }
 
 // CommandLog implements the "LOG" command.
