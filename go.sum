@@ -1,0 +1,4 @@
+github.com/visionmedia/docopt v1.0.0 h1:LuTtsc/+Sv2DgiJJWgoe8QHNqqzJBrU5g8kqvR3g8ZQ=
+github.com/visionmedia/docopt v1.0.0/go.mod h1:JbCMZSe8kqpPRhrLEoo7wqK8If6m79awephJ2C7ip9U=
+github.com/visionmedia/go-spin v1.1.0 h1:XYC8j7j3uwZv5lY3ytiFiHoK9EX/ZYtUO0RRLNiHooY=
+github.com/visionmedia/go-spin v1.1.0/go.mod h1:pH5PMVu7lG0Udp2bXGcf0A3wCxERplhM/NlPOH3mlL8=

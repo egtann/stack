@@ -4,9 +4,9 @@
 //
 package provisioner
 
-import "github.com/visionmedia/stack/pkg/logger/interface"
-import "github.com/visionmedia/stack/pkg/commit-log"
-import "github.com/visionmedia/stack/pkg/rewriter"
+import "github.com/egtann/stack/pkg/logger/interface"
+import "github.com/egtann/stack/pkg/commit-log"
+import "github.com/egtann/stack/pkg/rewriter"
 import "encoding/hex"
 import "crypto/sha1"
 import "strings"
